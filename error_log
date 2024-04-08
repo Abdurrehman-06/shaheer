@@ -1,0 +1,4 @@
+[21-Mar-2024 01:48:03 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "user_id" in /home/justcjfb/video.justdailyblog.info/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/login.php on line 3
